@@ -1,0 +1,1 @@
+import{_ as s,l as t,C as o,k as a}from"./entry.cecfda65.js";const c={},n={class:"app-layout"};function r(e,l){return a(),t("div",n,[o(e.$slots,"default")])}const d=s(c,[["render",r]]);export{d as default};

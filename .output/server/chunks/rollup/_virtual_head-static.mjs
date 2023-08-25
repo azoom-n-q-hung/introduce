@@ -1,0 +1,4 @@
+const _virtual__headStatic = {"headTags":"<meta charset=\"utf-8\">\n<title>ZicZic Studios</title>\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<meta name=\"description\" content=\"Studio cung cấp giải pháp ứng dụng Android, iOS\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/@mdi/font@5.9.55/css/materialdesignicons.min.css\">\n<script async=\"\" src=\"https://code.jquery.com/jquery-3.5.1.slim.min.js\"></script>\n<script async=\"\" src=\"https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js\"></script>\n<script async=\"\" src=\"https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/js/bootstrap.min.js\"></script>\n<script src=\"https://maps.googleapis.com/maps/api/js?key=AIzaSyDX4b19Ejhlzoq6abiCZM8qoretxKuawKM\"></script>","bodyTags":"","bodyTagsOpen":"","htmlAttrs":"","bodyAttrs":""};
+
+export { _virtual__headStatic as default };
+//# sourceMappingURL=_virtual_head-static.mjs.map
