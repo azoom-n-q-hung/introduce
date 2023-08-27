@@ -2,7 +2,7 @@
 onMounted(() => {
   let map;
   function initMap() {
-    const center = { lat: 21.012442, lng: 105.8351919 };
+    const center = { lat: 21.030760, lng: 105.784404 };
   
     map = new google.maps.Map(document.getElementById("googleMap"), {
       center: center,

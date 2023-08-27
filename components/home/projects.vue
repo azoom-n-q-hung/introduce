@@ -7,15 +7,12 @@
           <div class="product-image">
             <img
               class="image"
-              src="/images/trangphucbieudien.png"
-              alt="trangphucbieudien"
+              src="/images/nestviet.png"
+              alt="nestviet"
             />
           </div>
-          <div class="content p-20">
-
-          </div>
-          <p class="name">Shop Trang Phục Biển Diễn</p>
-          <p class="description">For rent Mascot Costumes</p>
+          <p class="name">NestViet</p>
+          <p class="description">For Swallow's nest shopping</p>
         </div>
       </div>
     </div>

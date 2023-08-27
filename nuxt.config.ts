@@ -6,11 +6,11 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     head: {
-      title: "ZicZic Studios",
+      title: "Alo Ship99",
       meta: [
         {
           name: "description",
-          content: "Studio cung cấp giải pháp ứng dụng Android, iOS",
+          content: "Cung cấp giải pháp ứng dụng Android, iOS",
         },
       ],
       script: [

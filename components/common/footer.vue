@@ -1,7 +1,7 @@
 <template>
   <footer class="footer">
     <div class="container text-center">
-      <p>&copy; 2023 ZicZic Studio. All rights reserved.</p>
+      <p>&copy; 2023 Alo Ship99. All rights reserved.</p>
     </div>
   </footer>
 </template>
